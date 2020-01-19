@@ -144,6 +144,7 @@ import java.sql.SQLException;
 				          System.out.println(quantity);
 				            //  rs.first();
 				            }
+				 
 				            
 			            preparedStmt2.close();
 					  
